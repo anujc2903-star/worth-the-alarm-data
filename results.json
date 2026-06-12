@@ -1,6 +1,5 @@
 {
-  "updated": "2026-06-12T00:00:00Z",
-
+  "updated": "2026-06-12T08:00:00Z",
   "_README": [
     "This file lets you update the live app WITHOUT redeploying.",
     "Edit this file on GitHub, hit 'Commit changes', and every visitor",
@@ -22,8 +21,8 @@
     "  '0':  { 'score': '2-0', 'status': 'FT' }",
     "  '76': { 'h': 'Argentina', 'a': 'Netherlands' }"
   ],
-
   "matches": {
-
+    "0": { "score": "2-0", "status": "FT" },
+    "1": { "score": "2-1", "status": "FT" }
   }
 }
