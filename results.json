@@ -1,0 +1,29 @@
+{
+  "updated": "2026-06-12T00:00:00Z",
+
+  "_README": [
+    "This file lets you update the live app WITHOUT redeploying.",
+    "Edit this file on GitHub, hit 'Commit changes', and every visitor",
+    "sees the update within seconds.",
+    "",
+    "HOW TO USE:",
+    "- 'matches' is keyed by the match's index (0-103), shown as 'i' in the app data.",
+    "- For KNOCKOUT matches (indices 76-103): once the teams are known,",
+    "  add h (home team) and a (away team) — the placeholder names",
+    "  ('Winner A', 'Runner-up B', etc.) get replaced everywhere.",
+    "- For ANY match: add score (e.g. '2-1') and/or status (e.g. 'FT', 'LIVE', 'HT')",
+    "  to show a small badge next to the team names.",
+    "- Always update the 'updated' timestamp at the top (any ISO date string) —",
+    "  this is what powers the 'Live results synced' note.",
+    "- Delete this _README key if you want (the app ignores unknown keys),",
+    "  or just leave it — it's harmless.",
+    "",
+    "EXAMPLE (uncomment / edit the lines in 'matches' below):",
+    "  '0':  { 'score': '2-0', 'status': 'FT' }",
+    "  '76': { 'h': 'Argentina', 'a': 'Netherlands' }"
+  ],
+
+  "matches": {
+
+  }
+}
