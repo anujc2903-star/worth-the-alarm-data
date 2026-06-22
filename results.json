@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T10:00:00Z",
+  "updated": "2026-06-22T10:00:00Z",
   "_README": [
     "This file lets you update the live app WITHOUT redeploying.",
     "Edit this file on GitHub, hit 'Commit changes', and every visitor",
@@ -53,6 +53,14 @@
     "28": { "score": "2-0", "status": "FT" },
     "29": { "score": "0-1", "status": "FT" },
     "30": { "score": "3-0", "status": "FT" },
-    "31": { "score": "0-1", "status": "FT" }
+    "31": { "score": "0-1", "status": "FT" },
+    "32": { "score": "5-1", "status": "FT" },
+    "33": { "score": "2-1", "status": "FT" },
+    "34": { "score": "0-0", "status": "FT" },
+    "35": { "score": "0-4", "status": "FT" },
+    "36": { "score": "4-0", "status": "FT" },
+    "37": { "score": "0-0", "status": "FT" },
+    "38": { "score": "2-2", "status": "FT" },
+    "39": { "score": "3-1", "status": "FT" }
   }
 }
